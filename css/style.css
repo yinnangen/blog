@@ -213,8 +213,6 @@ a {
 #container #mobile-nav {
   display: none;
   background: url("../img/bg.jpg") #515457;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
   background-size: cover;
 }
 #container #mobile-nav .overlay {
@@ -2881,8 +2879,6 @@ a.gitment-editor-footer-tip:hover {
   -moz-user-select: none;
   -ms-user-select: none;
   user-select: none;
-  -webkit-background-size: 110% 110%;
-  -moz-background-size: 110% 110%;
   background-size: 110% 110%;
   border: none;
   -webkit-appearance: none;
@@ -5097,8 +5093,6 @@ pre .link_url {
 }
 body {
   background: url("../img/p1543.jpg");
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
   background-size: cover;
   background-attachment: fixed;
   color: #000;
